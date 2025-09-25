@@ -1,0 +1,26 @@
+#button1 {
+    position: fixed;
+    right: 0%;
+}
+#button2 {
+    position: fixed;
+    right: 4%;
+}
+#button3 {
+    position: fixed;
+    right: 9.2%
+}
+#button4 {
+    position: fixed;
+    right: 16.6%
+}
+#button5 {
+    position: fixed;
+    right: 19.65%;
+}
+h3 {
+    position: fixed;
+    right:45%;
+    text-align: center;
+    font-style: bold;
+}
